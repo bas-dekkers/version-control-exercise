@@ -6,3 +6,5 @@ Let's try again to push en pull this the previous time it didn't go very well th
 This boy just found out what the issue was, he forgot to push all the new documents, so that is why non of it worked. 
 Now I do everything for the second time, it is good for the learning process not good for my time management. 
 >>>>>>> 258350c9ec975181c7010920fe44fd0d5d4c32bc
+
+Now I did this for the second time it went better. However, is mised to whole step in which i had to press I and that kind of things, maybe that is the reason why the text is placed aboven and not below. 
